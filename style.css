@@ -141,16 +141,7 @@ nav a:focus {
   outline: none;
 }
 
-/* Cartões de experiência */
-.carddiv {
-  opacity: 0;
-  transform: translateY(20px);
-  transition: all 0.6s ease;
-}
-.carddiv.show {
-  opacity: 1;
-  transform: translateY(0);
-}
+
 
 /* Ícones das tecnologias */
 .tech-icons {
